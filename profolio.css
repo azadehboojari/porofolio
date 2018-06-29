@@ -1,0 +1,112 @@
+#wrapper{
+    background-color:rgb(61, 24, 61);
+    height: 1200px;
+    width: 1000px;
+    
+}
+#header {
+    padding: 30px;
+    height: 50px;
+    width: 940px;
+    background-color:  gray;
+    display: inline-block; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header h1{
+    display: inline-block;  
+    /* text-align: right; */
+}
+#header p{
+    text-align: right;
+    display: inline-block;
+}
+#middle{
+    margin: 40px;
+    display: inline-block; 
+    width: 900px;
+ 
+   height: auto;
+   
+  
+}
+#picture{
+    /* height: 60px; */
+    width: 400px;
+    border: 5px solid azure;
+    display: inline-block; 
+    height: auto;
+} 
+    #about{
+    width: 400px;
+    height: 246px;
+    background-color: gray;
+    display: inline-block; 
+    vertical-align: top;
+    position: relative;
+    left: 80px;
+    padding: 15px;
+
+}
+#content{
+    
+    width: 900px;
+    height: 600px;
+    margin: 40px;
+    display: inline-block; 
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 280px;
+    height: 600px;;
+    background-color: gray;
+    display: inline-block; 
+}
+.top{
+    background-color: darkgray;
+    padding: 2.5px;
+}
+.paris{
+        
+    width: 280px;
+    border: darkgrey;
+    height: auto;
+}
+.discription1{
+    border: 2px;
+    height: 150px;
+    widows: 280;
+    padding: 8px;
+}
+.tech{
+    background-color: darkgray;
+    padding: 2.5px;
+    font-size: 20px;
+}
+.icons{
+    width: 280px;
+    height: 130px;
+    padding: 10px;
+}
+.techpic{
+    width: 50px;
+    height: 50px;
+    
+}
+#footer{
+    padding: 30px;
+    height: 50px;
+    width: 940px;
+    background-color:  gray;
+    display: inline-block; 
+    display: flex;
+    justify-content: space-between;
+    /* align-content: center; */
+}
+.connect{
+    width: 20px;
+    height: 20px;
+
+}
